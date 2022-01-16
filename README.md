@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning iOS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-  thegreatjy@gmail.com
-  https://jygrace.tistory.com/
+<br>
+<tab>[EMAIL]:thegreatjy@gmail.com
+<tab>[BLOG]:https://jygrace.tistory.com/
