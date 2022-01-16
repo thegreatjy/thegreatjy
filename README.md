@@ -8,5 +8,6 @@
 
   
   
-![yoopark's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=thegreatjy&layout=compact&theme=dracula)
+![yoopark's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=thegreatjy&layout=compact&title_color=f0a7aa&theme=buefy)
+
 
