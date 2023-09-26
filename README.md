@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thegreatjy
-- 👀 I’m interested in Algorithms, k8s
-- 🌱 I’m currently learning Node.js, k8s
+- 👀 I’m interested in Algorithms, Web Development
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thegreatjy@gmail.com)](mailto:thegreatjy@gmail.com)
