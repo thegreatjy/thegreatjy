@@ -7,7 +7,5 @@
 [<img src="https://img.shields.io/badge/Tistory-ff5a4a?style=flat&logo=Tistory&logoColor=white"/>](https://jygrace.tistory.com/)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/jiyeon-lee-606064229/)
   
-![thegreatjy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=thegreatjy&layout=compact&title_color=f0a7aa&theme=buefy)
 
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thegreatjy)](https://solved.ac/thegreatjy) [![thegreatjy's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=thegreatjy)](https://github.com/thegreatjy/leetcode-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thegreatjy)](https://solved.ac/thegreatjy) ![thegreatjy's Leetcode Stats](https://leetcard.jacoblin.cool/thegreatjy)
