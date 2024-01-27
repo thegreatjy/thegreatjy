@@ -8,4 +8,4 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/jiyeon-lee-606064229/)
   
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thegreatjy)](https://solved.ac/thegreatjy) ![thegreatjy's Leetcode Stats](https://leetcard.jacoblin.cool/thegreatjy)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thegreatjy)](https://solved.ac/thegreatjy) [![thegreatjy's Leetcode Stats](https://leetcard.jacoblin.cool/thegreatjy)](https://leetcode.com/thegreatjy/)
